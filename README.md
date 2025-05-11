@@ -5,7 +5,7 @@ The data was originally in Chinese, and I translated it to English using GPT-4o.
 
 I will probably be growing this dataset for a large-scale coverage.
 
-The final product of the project is named CensionVSExtension
+The final product of the project is named CensionVSExtension or can be found: https://github.com/Zemulax/CensionVSExtension.git
 
 
 
